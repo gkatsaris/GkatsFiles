@@ -73,14 +73,13 @@
 "nbgAppSelectionEnabled": true,
 "nbgAppSelectionAcquirerBankId": "011",
 "supportConfiguration" : {
-"id" : "2010",
-"name" : "Premium (Jumbo)",
-"details" : {
-"url" : "https://cardlink.gr/support/",
-"telephone" : "2106303001",
-"email" : "support@cardlink.gr",
-"callMe" : "support@cardlink.gr"
-} 
+"id" : "2013",
+"name" : "Basic",
+"details" : {"url" : "https://cardlink.gr/support/",
+"telephone" : "2106303000","email" : 
+"support@cardlink.gr","callMe" : 
+"support@cardlink.gr"
+}
 },
 "cardlinkOneConfiguration": {
 "accounts": [
