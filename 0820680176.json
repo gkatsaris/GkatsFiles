@@ -72,12 +72,11 @@
 "euroBankDCCSupport": true,
 "nbgAppSelectionEnabled": true,
 "nbgAppSelectionAcquirerBankId": "011",
-"supportConfiguration" : {"id" : "2012","name" : 
-"Cardlink one","details" : {"url" : "https://cardlink.gr/support/",
-"telephone" : "2106303050",
-"email" : "one@cardlink.gr",
+"supportConfiguration" : {"id" : "2011",
+"name" : "Premium","details" : {"url" : "https://cardlink.gr/support/","telephone" : "2106303030",
+"email" : "support@cardlink.gr",
 "callMe" : "support@cardlink.gr"}
-},
+                         },
 "cardlinkOneConfiguration": {
 "accounts": [
 {
